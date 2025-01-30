@@ -282,4 +282,4 @@ Após isso seu sistema estará instalado e pronto para uso!
 # Contato
 
 *Se tiver desejar passar algum insights, ou alguma recomendação fique à vontade para entrar em contato comigo.*
-[contato@matheuslima.com](matheuslalvs@gmail.com)
+[contato@matheuslima.com](mailto:matheuslalvs@gmail.com)
